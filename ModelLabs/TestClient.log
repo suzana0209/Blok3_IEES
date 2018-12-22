@@ -1,0 +1,691 @@
+12/11/2018 2:12:31 PM : Network Model Service Test Client is up and running...
+12/11/2018 2:12:31 PM : Result directory: ../Results
+12/11/2018 2:12:34 PM : Apply update method started.
+12/11/2018 2:12:34 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+
+12/11/2018 4:06:39 PM : Network Model Service Test Client is up and running...
+12/11/2018 4:06:39 PM : Result directory: ../Results
+12/11/2018 4:06:42 PM : Apply update method started.
+12/11/2018 4:06:42 PM : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = REGULARTIMEPOINT_SEQUENCENUMBER for entity (GID = 0x0000000500000001)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 4:27:09 PM : Network Model Service Test Client is up and running...
+12/11/2018 4:27:09 PM : Result directory: ../Results
+12/11/2018 4:27:10 PM : Apply update method started.
+12/11/2018 4:27:10 PM : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = REGULARTIMEPOINT_SEQUENCENUMBER for entity (GID = 0x0000000500000001)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 4:56:22 PM : Network Model Service Test Client is up and running...
+12/11/2018 4:56:22 PM : Result directory: ../Results
+12/11/2018 4:57:14 PM : Network Model Service Test Client is up and running...
+12/11/2018 4:57:14 PM : Result directory: ../Results
+12/11/2018 4:57:16 PM : Apply update method started.
+12/11/2018 4:57:16 PM : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = REGULARTIMEPOINT_SEQUENCENUMBER for entity (GID = 0x0000000500000001)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:05:40 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:05:40 PM : Result directory: ../Results
+12/11/2018 5:05:42 PM : Apply update method started.
+12/11/2018 5:05:42 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:11:08 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:11:08 PM : Result directory: ../Results
+12/11/2018 5:11:11 PM : Network Model Service Test Client stopped.
+12/11/2018 5:11:47 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:11:47 PM : Result directory: ../Results
+12/11/2018 5:11:49 PM : Apply update method started.
+12/11/2018 5:11:49 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:12:05 PM : Getting extent values method started.
+12/11/2018 5:12:05 PM : Getting extent values method successfully finished.
+12/11/2018 5:12:27 PM : Getting extent values method started.
+12/11/2018 5:21:28 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:21:28 PM : Result directory: ../Results
+12/11/2018 5:21:30 PM : Apply update method started.
+12/11/2018 5:21:30 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:21:37 PM : Apply update method started.
+12/11/2018 5:21:37 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/11/2018 5:21:46 PM : Getting extent values method started.
+12/11/2018 5:21:46 PM : Getting extent values method successfully finished.
+12/11/2018 5:22:37 PM : Getting extent values method started.
+12/11/2018 5:22:37 PM : Getting extent values method successfully finished.
+12/11/2018 5:23:31 PM : Getting extent values method started.
+12/11/2018 5:23:31 PM : Getting extent values method successfully finished.
+12/11/2018 5:24:13 PM : Getting extent values method started.
+12/11/2018 5:24:13 PM : Getting extent values method successfully finished.
+12/11/2018 5:26:25 PM : Getting extent values method started.
+12/11/2018 5:31:20 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:31:20 PM : Result directory: ../Results
+12/11/2018 5:31:23 PM : Apply update method started.
+12/11/2018 5:31:23 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:31:36 PM : Getting extent values method started.
+12/11/2018 5:32:23 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:32:24 PM : Result directory: ../Results
+12/11/2018 5:32:26 PM : Apply update method started.
+12/11/2018 5:32:26 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/11/2018 5:32:36 PM : Getting extent values method started.
+12/11/2018 5:34:34 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:34:34 PM : Result directory: ../Results
+12/11/2018 5:34:36 PM : Apply update method started.
+12/11/2018 5:34:36 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:34:47 PM : Getting extent values method started.
+12/11/2018 5:46:17 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:46:17 PM : Result directory: ../Results
+12/11/2018 5:46:19 PM : Apply update method started.
+12/11/2018 5:46:19 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:46:30 PM : Getting extent values method started.
+12/11/2018 5:46:33 PM : Getting extent values method successfully finished.
+12/11/2018 5:47:05 PM : Getting extent values method started.
+12/11/2018 5:49:05 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:49:05 PM : Result directory: ../Results
+12/11/2018 5:49:07 PM : Apply update method started.
+12/11/2018 5:49:08 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:49:16 PM : Getting extent values method started.
+12/11/2018 5:53:52 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:53:52 PM : Result directory: ../Results
+12/11/2018 5:54:38 PM : Getting values method started.
+12/11/2018 5:54:38 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+12/11/2018 5:54:38 PM : Getting values method for entered id = 262145 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+12/11/2018 5:55:34 PM : Getting values method started.
+12/11/2018 5:58:34 PM : Network Model Service Test Client is up and running...
+12/11/2018 5:58:34 PM : Result directory: ../Results
+12/11/2018 5:58:36 PM : Apply update method started.
+12/11/2018 5:58:37 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 5:58:49 PM : Getting extent values method started.
+12/11/2018 5:58:52 PM : Getting extent values method successfully finished.
+12/11/2018 6:00:42 PM : Network Model Service Test Client is up and running...
+12/11/2018 6:00:42 PM : Result directory: ../Results
+12/11/2018 6:00:43 PM : Apply update method started.
+12/11/2018 6:00:43 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/11/2018 6:00:49 PM : Getting extent values method started.
+12/11/2018 6:00:53 PM : Getting extent values method successfully finished.
+12/11/2018 7:45:35 PM : Network Model Service Test Client is up and running...
+12/11/2018 7:45:35 PM : Result directory: ../Results
+12/11/2018 7:45:40 PM : Apply update method started.
+12/11/2018 7:45:40 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/11/2018 7:45:56 PM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\suzana\Desktop\Projekat2018\ModelLabsProjekat2018_2\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 198
+12/11/2018 7:45:56 PM : GetExtentValues failed. Input string was not in a correct format.
+12/11/2018 7:46:05 PM : Getting extent values method started.
+12/11/2018 7:46:05 PM : Getting extent values method successfully finished.
+12/11/2018 7:46:47 PM : Getting extent values method started.
+12/11/2018 7:46:47 PM : Getting extent values method successfully finished.
+12/11/2018 7:46:59 PM : Getting extent values method started.
+12/11/2018 7:46:59 PM : Getting extent values method successfully finished.
+12/12/2018 9:42:55 AM : Network Model Service Test Client is up and running...
+12/12/2018 9:42:55 AM : Result directory: ../Results
+12/12/2018 9:42:57 AM : Apply update method started.
+12/12/2018 9:42:57 AM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000003
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000003
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000003
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000003
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000003
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000003
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000003
+
+12/12/2018 9:52:31 AM : Network Model Service Test Client is up and running...
+12/12/2018 9:52:31 AM : Result directory: ../Results
+12/12/2018 9:52:35 AM : Getting extent values method started.
+12/12/2018 9:52:36 AM : Getting extent values method successfully finished.
+12/12/2018 9:53:43 AM : Getting extent values method started.
+12/12/2018 9:53:43 AM : Getting extent values method successfully finished.
+12/12/2018 9:54:15 AM : Getting extent values method started.
+12/12/2018 9:54:15 AM : Getting extent values method successfully finished.
+12/12/2018 9:55:00 AM : Getting extent values method started.
+12/12/2018 9:55:00 AM : Getting extent values method successfully finished.
+12/12/2018 9:56:57 AM : Network Model Service Test Client stopped.
+12/12/2018 11:17:11 AM : Network Model Service Test Client is up and running...
+12/12/2018 11:17:11 AM : Result directory: ../Results
+12/12/2018 11:17:13 AM : Apply update method started.
+12/12/2018 11:17:13 AM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 11:17:23 AM : Getting extent values method started.
+12/12/2018 11:17:24 AM : Getting extent values method successfully finished.
+12/12/2018 11:19:01 AM : Getting extent values method started.
+12/12/2018 11:19:01 AM : Getting extent values method successfully finished.
+12/12/2018 11:19:41 AM : Getting extent values method started.
+12/12/2018 11:19:41 AM : Getting extent values method successfully finished.
+12/12/2018 11:21:24 AM : Getting extent values method started.
+12/12/2018 11:21:24 AM : Getting extent values method successfully finished.
+12/12/2018 11:21:51 AM : Getting extent values method started.
+12/12/2018 11:21:51 AM : Getting extent values method successfully finished.
+12/12/2018 11:22:41 AM : Getting extent values method started.
+12/12/2018 11:22:41 AM : Getting extent values method successfully finished.
+12/12/2018 11:23:01 AM : Getting extent values method started.
+12/12/2018 11:23:02 AM : Getting extent values method successfully finished.
+12/12/2018 11:24:07 AM : Getting extent values method started.
+12/12/2018 11:24:07 AM : Getting extent values method successfully finished.
+12/12/2018 11:28:14 AM : Network Model Service Test Client is up and running...
+12/12/2018 11:28:14 AM : Result directory: ../Results
+12/12/2018 11:28:17 AM : Apply update method started.
+12/12/2018 11:28:18 AM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 11:28:29 AM : Getting extent values method started.
+12/12/2018 11:28:29 AM : Getting extent values method successfully finished.
+12/12/2018 11:29:01 AM : Getting extent values method started.
+12/12/2018 11:29:01 AM : Getting extent values method successfully finished.
+12/12/2018 11:31:01 AM : Network Model Service Test Client is up and running...
+12/12/2018 11:31:01 AM : Result directory: ../Results
+12/12/2018 11:31:02 AM : Apply update method started.
+12/12/2018 11:31:03 AM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 11:31:12 AM : Getting extent values method started.
+12/12/2018 11:31:12 AM : Getting extent values method successfully finished.
+12/12/2018 11:31:37 AM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\suzana\Desktop\Projekat2018\ModelLabsProjekat2018_2\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 198
+12/12/2018 11:31:37 AM : GetExtentValues failed. Input string was not in a correct format.
+12/12/2018 11:31:48 AM : Getting extent values method started.
+12/12/2018 11:31:48 AM : Getting extent values method successfully finished.
+12/12/2018 11:35:39 AM : Network Model Service Test Client is up and running...
+12/12/2018 11:35:39 AM : Result directory: ../Results
+12/12/2018 11:35:41 AM : Apply update method started.
+12/12/2018 11:35:41 AM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 11:35:48 AM : Getting extent values method started.
+12/12/2018 11:35:48 AM : Getting extent values method successfully finished.
+12/12/2018 11:36:16 AM : Getting extent values method started.
+12/12/2018 11:36:17 AM : Getting extent values method successfully finished.
+12/12/2018 11:36:49 AM : Getting extent values method started.
+12/12/2018 11:36:49 AM : Getting extent values method successfully finished.
+12/12/2018 11:39:34 AM : Network Model Service Test Client is up and running...
+12/12/2018 11:39:34 AM : Result directory: ../Results
+12/12/2018 11:39:36 AM : Apply update method started.
+12/12/2018 11:39:37 AM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 11:39:46 AM : Getting extent values method started.
+12/12/2018 11:39:47 AM : Getting extent values method successfully finished.
+12/12/2018 11:40:27 AM : Getting extent values method started.
+12/12/2018 11:40:27 AM : Getting extent values method successfully finished.
+12/12/2018 11:40:48 AM : Getting extent values method started.
+12/12/2018 11:40:49 AM : Getting extent values method successfully finished.
+12/12/2018 11:41:27 AM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\suzana\Desktop\Projekat2018\ModelLabsProjekat2018_2\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 198
+12/12/2018 11:41:27 AM : GetExtentValues failed. Input string was not in a correct format.
+12/12/2018 11:41:37 AM : Getting extent values method started.
+12/12/2018 11:41:38 AM : Getting extent values method successfully finished.
+12/12/2018 11:42:02 AM : Getting extent values method started.
+12/12/2018 11:42:02 AM : Getting extent values method successfully finished.
+12/12/2018 12:15:16 PM : Network Model Service Test Client is up and running...
+12/12/2018 12:15:16 PM : Result directory: ../Results
+12/12/2018 12:15:20 PM : Apply update method started.
+12/12/2018 12:15:21 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 12:15:28 PM : Getting extent values method started.
+12/12/2018 12:15:28 PM : Getting extent values method successfully finished.
+12/12/2018 12:15:48 PM : Getting extent values method started.
+12/12/2018 12:15:48 PM : Getting extent values method successfully finished.
+12/12/2018 2:00:03 PM : Network Model Service Test Client is up and running...
+12/12/2018 2:00:03 PM : Result directory: ../Results
+12/12/2018 2:00:06 PM : Apply update method started.
+12/12/2018 2:00:07 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/12/2018 2:00:21 PM : Getting extent values method started.
+12/12/2018 2:00:21 PM : Getting extent values method successfully finished.
+12/12/2018 2:00:42 PM : Getting extent values method started.
+12/12/2018 2:00:42 PM : Getting extent values method successfully finished.
+12/12/2018 3:21:22 PM : Network Model Service Test Client is up and running...
+12/12/2018 3:21:22 PM : Result directory: ../Results
+12/12/2018 3:21:24 PM : Apply update method started.
+12/12/2018 3:21:24 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000003
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000003
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000003
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000003
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000003
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000003
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000003
+
+12/12/2018 3:21:36 PM : Getting extent values method started.
+12/12/2018 3:21:37 PM : Getting extent values method successfully finished.
+12/12/2018 4:14:50 PM : Network Model Service Test Client is up and running...
+12/12/2018 4:14:50 PM : Result directory: ../Results
+12/12/2018 4:14:51 PM : Apply update method started.
+12/12/2018 4:14:52 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000004
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000004
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000004
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000004
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000004
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000004
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000004
+
+12/12/2018 4:14:56 PM : Getting extent values method started.
+12/12/2018 4:14:56 PM : Getting extent values method successfully finished.
+12/12/2018 4:31:08 PM : Network Model Service Test Client is up and running...
+12/12/2018 4:31:08 PM : Result directory: ../Results
+12/12/2018 4:31:10 PM : Apply update method started.
+12/12/2018 4:31:10 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 4:31:15 PM : Getting extent values method started.
+12/12/2018 4:31:15 PM : Getting extent values method successfully finished.
+12/12/2018 4:31:42 PM : Getting extent values method started.
+12/12/2018 4:31:42 PM : Getting extent values method successfully finished.
+12/12/2018 5:08:38 PM : Network Model Service Test Client is up and running...
+12/12/2018 5:08:38 PM : Result directory: ../Results
+12/12/2018 5:08:41 PM : Apply update method started.
+12/12/2018 5:08:41 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/12/2018 5:08:53 PM : Getting extent values method started.
+12/12/2018 5:08:53 PM : Getting extent values method successfully finished.
+12/12/2018 5:18:10 PM : Network Model Service Test Client is up and running...
+12/12/2018 5:18:10 PM : Result directory: ../Results
+12/12/2018 5:18:12 PM : Apply update method started.
+12/12/2018 5:18:12 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 5:18:29 PM : Getting extent values method started.
+12/12/2018 5:18:29 PM : Getting extent values method successfully finished.
+12/12/2018 5:18:49 PM : Getting extent values method started.
+12/12/2018 5:18:49 PM : Getting extent values method successfully finished.
+12/12/2018 8:02:43 PM : Network Model Service Test Client is up and running...
+12/12/2018 8:02:43 PM : Result directory: ../Results
+12/12/2018 8:02:45 PM : Apply update method started.
+12/12/2018 8:02:45 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 8:03:10 PM : Getting extent values method started.
+12/12/2018 8:03:11 PM : Getting extent values method successfully finished.
+12/12/2018 8:03:45 PM : Apply update method started.
+12/12/2018 8:03:45 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/12/2018 8:03:53 PM : Getting extent values method started.
+12/12/2018 8:03:54 PM : Getting extent values method successfully finished.
+12/12/2018 8:04:15 PM : Apply update method started.
+12/12/2018 8:04:15 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000003
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000003
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000003
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000003
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000003
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000003
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000003
+
+12/12/2018 8:04:16 PM : Apply update method started.
+12/12/2018 8:04:16 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000004
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000004
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000004
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000004
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000004
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000004
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000004
+
+12/12/2018 8:04:16 PM : Apply update method started.
+12/12/2018 8:04:16 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000005
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000005
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000005
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000005
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000005
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000005
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000005
+
+12/12/2018 8:04:23 PM : Getting extent values method started.
+12/12/2018 8:04:23 PM : Getting extent values method successfully finished.
+12/12/2018 8:15:05 PM : Network Model Service Test Client is up and running...
+12/12/2018 8:15:05 PM : Result directory: ../Results
+12/12/2018 8:15:06 PM : Apply update method started.
+12/12/2018 8:15:07 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 8:15:15 PM : Getting extent values method started.
+12/12/2018 8:15:16 PM : Getting extent values method successfully finished.
+12/12/2018 8:15:27 PM : Getting extent values method started.
+12/12/2018 8:15:27 PM : Getting extent values method successfully finished.
+12/12/2018 8:18:04 PM : Network Model Service Test Client is up and running...
+12/12/2018 8:18:04 PM : Result directory: ../Results
+12/12/2018 8:18:11 PM : Apply update method started.
+12/12/2018 8:18:11 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000002
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000002
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000002
+
+12/12/2018 8:18:19 PM : Getting extent values method started.
+12/12/2018 8:18:19 PM : Getting extent values method successfully finished.
+12/12/2018 8:19:08 PM : Network Model Service Test Client is up and running...
+12/12/2018 8:19:08 PM : Result directory: ../Results
+12/12/2018 8:19:09 PM : Apply update method started.
+12/12/2018 8:19:10 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+
+12/12/2018 8:19:17 PM : Getting extent values method started.
+12/12/2018 8:19:17 PM : Getting extent values method successfully finished.
+12/12/2018 8:19:41 PM : Getting extent values method started.
+12/12/2018 8:19:42 PM : Getting extent values method successfully finished.

@@ -1,0 +1,106 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="8">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="SWITCH" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid5" />
+            <Property id="IDOBJ_NAME" value="TestString5" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName5" />
+            <Property id="EQUIPMENT_AGGREGATE" value="0" />
+            <Property id="EQUIPMENT_NORMALLYINSERVICE" value="1" />
+            <Property id="SWITCH_NORMALOPEN" value="1" />
+            <Property id="SWITCH_RATEDCURRENT" value="1.1" />
+            <Property id="SWITCH_RATAINED" value="1" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="4" />
+            <Property id="SWITCH_SWITCHONDATE" value="636116997200000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid3" />
+            <Property id="IDOBJ_NAME" value="TestString3" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName3" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="1" />
+            <Property id="REGULATINGCONTROL_MODE" value="volatage" />
+            <Property id="REGULATINGCONTROL_MONITOREDPHASE" value="A" />
+            <Property id="REGULATINGCONTROL_TARGETRANGE" value="2.6" />
+            <Property id="REGULATINGCONTROL_TARGETVALUE" value="5.1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid2" />
+            <Property id="IDOBJ_NAME" value="TestString2" />
+            <Property id="IDOBJ_ALIASNAME" value="aliasName2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007ffffffff" type="REGULATIONSCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid4" />
+            <Property id="IDOBJ_NAME" value="TestString4" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName4" />
+            <Property id="BASICINTERVALSCHEDULE_STARTTIME" value="636116997200000000" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="VA" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="W" />
+            <Property id="SEASONDAYTYPESCHEDULE_DAYTYPE" value="0x00000004ffffffff" />
+            <Property id="REGULATIONSCHEDULE_REGULATINGCONTROL" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="TAPCHANGER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid6" />
+            <Property id="IDOBJ_NAME" value="TestString6" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName6" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="TAPSCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid7" />
+            <Property id="IDOBJ_NAME" value="TestString7" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName7" />
+            <Property id="BASICINTERVALSCHEDULE_STARTTIME" value="636116997200000000" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="VA" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="p" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="VA" />
+            <Property id="SEASONDAYTYPESCHEDULE_DAYTYPE" value="0x00000004ffffffff" />
+            <Property id="TAPSCHEDULE_TAPCHANGER" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="REGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid1" />
+            <Property id="IDOBJ_NAME" value="TestString1" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName1" />
+            <Property id="REGULARTIMEPOINT_SEQUENCENUMBER" value="1" />
+            <Property id="REGULARTIMEPOINT_VALUE1" value="4.5" />
+            <Property id="REGULARTIMEPOINT_VALUE2" value="5.9" />
+            <Property id="REGULARTIMEPOINT_REGULARINTERVALSCHEDULE" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="REGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="mrid8" />
+            <Property id="IDOBJ_NAME" value="TestString8" />
+            <Property id="IDOBJ_ALIASNAME" value="AliasName8" />
+            <Property id="REGULARTIMEPOINT_SEQUENCENUMBER" value="1" />
+            <Property id="REGULARTIMEPOINT_VALUE1" value="4.5" />
+            <Property id="REGULARTIMEPOINT_VALUE2" value="5.9" />
+            <Property id="REGULARTIMEPOINT_REGULARINTERVALSCHEDULE" value="0x00000007ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

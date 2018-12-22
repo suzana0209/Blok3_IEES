@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+	xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">	
+	<cim:Switch rdf:ID="SWITCH1">
+		<cim:Switch.normalOpen>true</cim:Switch.normalOpen>
+		<cim:Switch.ratedCurrent>1.1</cim:Switch.ratedCurrent>
+		<cim:Switch.retained>true</cim:Switch.retained>
+		<cim:Switch.switchOnCount>4</cim:Switch.switchOnCount>
+		<cim:Switch.switchOnDate>2016-10-10T12:35:20</cim:Switch.switchOnDate>
+		<cim:Equipment.aggregate>false</cim:Equipment.aggregate>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>AliasName5</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid5</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString5</cim:IdentifiedObject.name>
+	</cim:Switch>
+	<cim:RegulatingControl rdf:ID="REGULATINGCONTROL1">
+		<cim:RegulatingControl.discrete>true</cim:RegulatingControl.discrete>
+		<cim:RegulatingControl.mode>activePower</cim:RegulatingControl.mode>
+		<cim:RegulatingControl.monitoredPhase>A</cim:RegulatingControl.monitoredPhase>
+		<cim:RegulatingControl.targetRange>2.6</cim:RegulatingControl.targetRange>
+		<cim:RegulatingControl.targetValue>5.1</cim:RegulatingControl.targetValue>
+		<cim:IdentifiedObject.aliasName>AliasName3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString3</cim:IdentifiedObject.name>
+	</cim:RegulatingControl>
+	<cim:DayType rdf:ID="DAYTYPE1">
+		<cim:IdentifiedObject.aliasName>aliasName2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString2</cim:IdentifiedObject.name>
+	</cim:DayType>
+	<cim:RegulationSchedule rdf:ID="REGULATIONSCHEDULE1">
+		<cim:RegulationSchedule.RegulatingControl rdf:resource="#REGULATINGCONTROL1"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#DAYTYPE1"/>
+		<cim:BasicIntervalSchedule.startTime>2016-10-10T12:35:20</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Multiplier>c</cim:BasicIntervalSchedule.value1Multiplier>
+		<cim:BasicIntervalSchedule.value1Unit>A</cim:BasicIntervalSchedule.value1Unit>
+		<cim:BasicIntervalSchedule.value2Multiplier>c</cim:BasicIntervalSchedule.value2Multiplier>
+		<cim:BasicIntervalSchedule.value2Unit>deg</cim:BasicIntervalSchedule.value2Unit>
+		<cim:IdentifiedObject.aliasName>AliasName4</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid4</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString4</cim:IdentifiedObject.name>
+	</cim:RegulationSchedule>
+	<cim:TapChanger rdf:ID="TAPCHANGER1">
+		<cim:IdentifiedObject.aliasName>AliasName6</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid6</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString6</cim:IdentifiedObject.name>
+	</cim:TapChanger>
+		<cim:TapSchedule rdf:ID="TAPSCHEDULE1">
+		<cim:TapSchedule.TapChanger rdf:resource="#TAPCHANGER1"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#DAYTYPE1"/>
+		<cim:BasicIntervalSchedule.startTime>2016-10-10T12:35:20</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Multiplier>c</cim:BasicIntervalSchedule.value1Multiplier>
+		<cim:BasicIntervalSchedule.value1Unit>A</cim:BasicIntervalSchedule.value1Unit>
+		<cim:BasicIntervalSchedule.value2Multiplier>c</cim:BasicIntervalSchedule.value2Multiplier>
+		<cim:BasicIntervalSchedule.value2Unit>A</cim:BasicIntervalSchedule.value2Unit>
+		<cim:IdentifiedObject.aliasName>AliasName7</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid7</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString7</cim:IdentifiedObject.name>
+	</cim:TapSchedule>
+	<cim:RegularTimePoint rdf:ID="REGULARTIMEPOINT1">
+		<cim:RegularTimePoint.IntervalSchedule rdf:resource="#TAPSCHEDULE1"/>
+		<cim:RegularTimePoint.sequenceNumber>1</cim:RegularTimePoint.sequenceNumber>
+		<cim:RegularTimePoint.value1>4.5</cim:RegularTimePoint.value1>
+		<cim:RegularTimePoint.value2>5.9</cim:RegularTimePoint.value2> 
+		<cim:IdentifiedObject.aliasName>AliasName1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString1</cim:IdentifiedObject.name>
+	</cim:RegularTimePoint>
+	<cim:RegularTimePoint rdf:ID="REGULARTIMEPOINT2">
+		<cim:RegularTimePoint.IntervalSchedule rdf:resource="#REGULATIONSCHEDULE1"/>
+		<cim:RegularTimePoint.sequenceNumber>1</cim:RegularTimePoint.sequenceNumber>
+		<cim:RegularTimePoint.value1>4.5</cim:RegularTimePoint.value1>
+		<cim:RegularTimePoint.value2>5.9</cim:RegularTimePoint.value2>
+		<cim:IdentifiedObject.aliasName>AliasName8</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>mrid8</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TestString8</cim:IdentifiedObject.name>
+	</cim:RegularTimePoint>
+</rdf:RDF>
